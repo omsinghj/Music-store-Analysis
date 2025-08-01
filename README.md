@@ -22,3 +22,5 @@ https://github.com/omsinghj/Music-store-Analysis/blob/main/MusicDatabaseSchema.p
 * This dataset typically comes in .sql or .csv format and can be imported using PostgreSQL tools like pgAdmin.
 
 ## Music_Store_Query.sql
+
+https://github.com/omsinghj/Music-store-Analysis/blob/main/Music_Store_Query.sql
